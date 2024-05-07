@@ -186,6 +186,7 @@ a.my-btn-4:hover {
 .single-slider {
     width: 100%;
     height: 545px;
+    background-repeat: round;
 }
 
 .single-slider h1 {
